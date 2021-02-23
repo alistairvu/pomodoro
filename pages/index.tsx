@@ -8,10 +8,6 @@ export default function Home() {
       <Head>
         <title>25 + 5 Timer</title>
         <link rel="icon" href="/favicon.ico" />
-        <script
-          defer
-          src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"
-        />
       </Head>
 
       <header>

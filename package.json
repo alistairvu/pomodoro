@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@c0d3t3k/jotai-devtools": "https://github.com/c0d3t3k/jotai-devtools.git",
     "axios": "^0.21.1",
     "jotai": "^0.14.5",
     "next": "10.0.7",

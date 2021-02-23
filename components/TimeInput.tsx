@@ -7,7 +7,6 @@ import {
   isRunningAtom,
 } from "../jotai"
 import { Row, Col, Button } from "react-bootstrap"
-import { useJotaiDevtools } from "@c0d3t3k/jotai-devtools"
 
 export const TimeInput = () => {
   const [breakLength, setBreakLength] = useAtom(breakLengthAtom)
